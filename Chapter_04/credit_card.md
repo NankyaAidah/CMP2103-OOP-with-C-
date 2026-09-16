@@ -22,7 +22,7 @@ consider the card number 4388576018402626):
 3. Add all digits in the odd places from right to left in the card number.
 4. Sum the results from Steps 2 and 3.
 5. If the result from Step 4 is divisible by 10, the card number is valid; otherwise,
-it is invalid. For example, the number 4388576018402626 is invalid, but the
+it is invalid. For example, the number 4388576018402626is invalid, but the
 number 4388576018410707 is valid.
 
 Write a program that prompts the user to enter a credit card number as an integer.
